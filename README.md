@@ -1,6 +1,6 @@
 # OpenCV Basic Code / OpenCV 基础代码
 
-[跳到英文版](#opencv-basic-code) | [跳到中文版](#opencv-基础代码-1)
+[跳到英文版](#opencv-basic-code) | [跳到中文版](#openCV-基础代码)
 
 ---
 
