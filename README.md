@@ -4,6 +4,18 @@
 
 ---
 
+## 📁 Code Files / 代码文件说明
+
+The complete code of this learning project is stored in two files:  
+本学习项目的完整代码分别存放在两个文件中：
+
+| File / 文件 | Description / 说明 |
+|------------|-------------------|
+| `chapter.py` | Main code file, containing complete examples from basic to advanced levels<br>主要代码文件，包含基础到进阶的完整示例 |
+| `testall.py` | Comprehensive test file, including real-time camera processing and advanced applications<br>综合测试文件，包含摄像头实时处理和高级应用 |
+
+---
+
 ## English Version
 
 ### OpenCV Basic Code
