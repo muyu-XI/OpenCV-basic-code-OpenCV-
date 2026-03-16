@@ -1,6 +1,6 @@
 # OpenCV Basic Code / OpenCV 基础代码
 
-[English](#opencv-basic-code) | [中文](#opencv-基础代码-1)
+[跳到英文版](#opencv-basic-code) | [跳到中文版](#opencv-基础代码-1)
 
 ---
 
@@ -211,3 +211,18 @@ Covering core functional modules of OpenCV:
   - fresh函数（暂停+关闭窗口）
 - **多图拼板显示**
   - stackImages自定义函数（自动化拼图，支持不同尺寸、灰度图自动转彩色）
+
+---
+
+### 致敬与致谢 | Acknowledgements
+
+本学习代码参考了以下两位老师的开源项目，在此表示崇高敬意：
+
+This learning code references the following open-source projects, and I would like to express my sincere respect to both teachers:
+
+- **[Murtaza Hassan](https://github.com/murtazahassan)** - [Learn-OpenCV-in-3-hours](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours)
+- **[孔范鹤 (Kong Fanhe)](https://github.com/kongfanhe)** - [opencv_tutorial](https://github.com/kongfanhe/opencv_tutorial)
+
+感谢两位老师的优质教程，为本学习过程提供了宝贵指导。
+
+Thanks to both teachers for their excellent tutorials, which provided valuable guidance for this learning journey.
